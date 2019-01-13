@@ -1,5 +1,7 @@
 # data-viz-resources
 
+[D3.js documentation](https://github.com/d3/d3/blob/master/API.md)
+
 [Observable](https://beta.observablehq.com/) - platform for publishing d3.js projects in notebook form, editable online, forkable like github repos
 
 ## Tutorials/Educational Resources
@@ -9,3 +11,5 @@
 [Flowing Data](https://flowingdata.com/)
 
 [Nadieh Bremer's site](https://www.visualcinnamon.com/)
+
+[Nadieh Bremer & Shirley Wu's Data Sketches site](http://www.datasketch.es/)
